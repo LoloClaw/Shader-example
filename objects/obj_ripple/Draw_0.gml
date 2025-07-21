@@ -1,8 +1,6 @@
 gpu_set_tex_filter(true);
 gpu_set_tex_repeat(true);
 
-draw_sprite_tiled(spr_tile, 0, 0, 0);
-
 if (!surface_exists(surf)) surf = surface_create(room_width, room_width);
 surface_set_target(surf);
 draw_clear_alpha(c_black, 0);
