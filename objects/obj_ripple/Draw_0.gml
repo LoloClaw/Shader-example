@@ -5,7 +5,7 @@ if (!surface_exists(surf)) surf = surface_create(room_width, room_width);
 surface_set_target(surf);
 draw_clear_alpha(c_black, 0);
 
-draw_sprite_tiled(spr_tile, 0, room_width / 2 , room_height / 2);
+draw_sprite_tiled(spr_water, 0, room_width / 2 , room_height / 2);
 draw_sprite(spr_wheel_defender_shoot_flying, 0, room_width / 4, room_height / 2);
 draw_sprite(spr_annihilator, 0, room_width / 4 * 3, room_height / 2);
 
