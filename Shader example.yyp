@@ -36,6 +36,7 @@
   "name":"Shader example",
   "resources":[
     {"id":{"name":"fnt_font","path":"fonts/fnt_font/fnt_font.yy",},},
+    {"id":{"name":"fnt_small","path":"fonts/fnt_small/fnt_small.yy",},},
     {"id":{"name":"obj_blur","path":"objects/obj_blur/obj_blur.yy",},},
     {"id":{"name":"obj_disintegrate","path":"objects/obj_disintegrate/obj_disintegrate.yy",},},
     {"id":{"name":"obj_fire","path":"objects/obj_fire/obj_fire.yy",},},

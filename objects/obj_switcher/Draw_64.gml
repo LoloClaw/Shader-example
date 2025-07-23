@@ -4,3 +4,7 @@ draw_set_font(fnt_font);
 draw_text(room_width / 2, 10, "Left/Right to change shader");
 
 draw_text(room_width / 2, 50, "Shader: " + obj_parent_shader.name);
+
+draw_set_font(fnt_small);
+draw_set_halign(fa_left);
+draw_text(10, 10, $"FPS: {fps}");
