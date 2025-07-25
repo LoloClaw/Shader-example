@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"fnt_small","order":1,"path":"fonts/fnt_small/fnt_small.yy",},
+    {"name":"obj_aberration","order":10,"path":"objects/obj_aberration/obj_aberration.yy",},
     {"name":"obj_disintegrate","order":2,"path":"objects/obj_disintegrate/obj_disintegrate.yy",},
     {"name":"obj_fire","order":5,"path":"objects/obj_fire/obj_fire.yy",},
     {"name":"obj_hsls","order":3,"path":"objects/obj_hsls/obj_hsls.yy",},
@@ -27,6 +28,7 @@
     {"name":"obj_ripple","order":8,"path":"objects/obj_ripple/obj_ripple.yy",},
     {"name":"obj_switcher","order":6,"path":"objects/obj_switcher/obj_switcher.yy",},
     {"name":"obj_water","order":1,"path":"objects/obj_water/obj_water.yy",},
+    {"name":"sh_aberration","order":9,"path":"shaders/sh_aberration/sh_aberration.yy",},
     {"name":"sh_dissipate","order":3,"path":"shaders/sh_dissipate/sh_dissipate.yy",},
     {"name":"sh_fire","order":6,"path":"shaders/sh_fire/sh_fire.yy",},
     {"name":"sh_hsls_test","order":4,"path":"shaders/sh_hsls_test/sh_hsls_test.yy",},

@@ -37,6 +37,7 @@
   "resources":[
     {"id":{"name":"fnt_font","path":"fonts/fnt_font/fnt_font.yy",},},
     {"id":{"name":"fnt_small","path":"fonts/fnt_small/fnt_small.yy",},},
+    {"id":{"name":"obj_aberration","path":"objects/obj_aberration/obj_aberration.yy",},},
     {"id":{"name":"obj_blur","path":"objects/obj_blur/obj_blur.yy",},},
     {"id":{"name":"obj_disintegrate","path":"objects/obj_disintegrate/obj_disintegrate.yy",},},
     {"id":{"name":"obj_fire","path":"objects/obj_fire/obj_fire.yy",},},
@@ -48,6 +49,7 @@
     {"id":{"name":"obj_switcher","path":"objects/obj_switcher/obj_switcher.yy",},},
     {"id":{"name":"obj_water","path":"objects/obj_water/obj_water.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sh_aberration","path":"shaders/sh_aberration/sh_aberration.yy",},},
     {"id":{"name":"sh_dissipate","path":"shaders/sh_dissipate/sh_dissipate.yy",},},
     {"id":{"name":"sh_fire","path":"shaders/sh_fire/sh_fire.yy",},},
     {"id":{"name":"sh_hsls_test","path":"shaders/sh_hsls_test/sh_hsls_test.yy",},},
