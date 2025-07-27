@@ -12,7 +12,7 @@ float random(vec2 value)
 
 void main()
 {
-    gl_FragColor.g = random(gl_FragCoord.xy + vec2(time));
-	gl_FragColor.rb = vec2(0.0);
+    gl_FragColor.rgb = vec3(random(gl_FragCoord.xy + vec2(time)));
+	//gl_FragColor.rb = vec2(0.0);
 	gl_FragColor.a = 1.0;
 }
