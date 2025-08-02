@@ -1,14 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"obj_outline",
+  "%Name":"obj_painting",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_outline",
+  "name":"obj_painting",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_shader","path":"objects/obj_parent_shader/obj_parent_shader.yy",},"propertyId":{"name":"name","path":"objects/obj_parent_shader/obj_parent_shader.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Outline",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_shader","path":"objects/obj_parent_shader/obj_parent_shader.yy",},"propertyId":{"name":"name","path":"objects/obj_parent_shader/obj_parent_shader.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Painting filter",},
   ],
   "parent":{
     "name":"Objects",
